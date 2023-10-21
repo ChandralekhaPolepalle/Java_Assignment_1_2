@@ -18,7 +18,8 @@ class Point{
     }
 
     public double calculate_area(Point pt_2, Point pt_3 ){
-        return Math.abs((this.x*(pt_2.y-pt_3.y) + pt_2.x*(pt_3.y-pt_3.y)+ pt_3.x*(this.y-pt_2.y))/2.0);
+        return Math.abs((this.x*(pt_2.y-pt_3.y) + pt_2.x*(pt_3.y-this.y)+ pt_3.x*(this.y-pt_2.y))/2.0);
+
     }
 }
 

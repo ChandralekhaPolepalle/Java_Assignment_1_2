@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a3fd046-1ecf-454a-bdfc-ddd668a85cfb" name="Changes" comment="Perimeter and isosceles calculation">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4a3fd046-1ecf-454a-bdfc-ddd668a85cfb" name="Changes" comment="Implemented checking whether point is inside or outside the triangle">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697841021230</updated>
-      <workItem from="1697841022448" duration="6933000" />
+      <workItem from="1697841022448" duration="7244000" />
     </task>
     <task id="LOCAL-00001" summary="Perimeter and isosceles calculation">
       <option name="closed" value="true" />
@@ -57,7 +56,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697846027246</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Implemented checking whether point is inside or outside the triangle">
+      <option name="closed" value="true" />
+      <created>1697848070595</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697848070595</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,6 +72,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Perimeter and isosceles calculation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Perimeter and isosceles calculation" />
+    <MESSAGE value="Implemented checking whether point is inside or outside the triangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented checking whether point is inside or outside the triangle" />
   </component>
 </project>
